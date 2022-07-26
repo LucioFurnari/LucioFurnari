@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 Mi nombre es Lucio, actualmente estudio programación enfocada en desarrollo front-end y creo aplicaciones web.
-<div justify-content="center" display="flex" flex-direction="row">
+<div align="center">
   <div>
 Habilidades:
 
