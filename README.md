@@ -17,7 +17,9 @@ Mi nombre es Lucio, actualmente estudio programación enfocada en desarrollo fro
 <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
   </div>
   
+  
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucioFurnari)](https://github.com/anuraghazra/github-readme-stats)
+  
 </div>  
 
 
