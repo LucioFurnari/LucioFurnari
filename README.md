@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Mi nombre es Lucio, actualmente estudio programación enfocada en desarrollo front-end y creo aplicaciones web.
+Mi nombre es Lucio,🌱 actualmente estudio programación enfocada en desarrollo front-end y creo aplicaciones web.
 <div align="center">
   
   HABILIDADES: 
