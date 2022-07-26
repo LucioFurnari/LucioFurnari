@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 Mi nombre es Lucio, actualmente estudio programación enfocada en desarrollo front-end y creo aplicaciones web.
-<div justify-content="center" display="flex">
-  <div align="left">
+<div justify-content="center" display="flex" flex-direction="row">
+  <div>
 Habilidades:
 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
@@ -10,7 +10,7 @@ Habilidades:
 <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
   </div>
-  <div align"right">
+  <div>
 Herramientas: 
 
 <img src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white">
