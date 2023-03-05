@@ -27,6 +27,7 @@
 <img align="left" alt="Bootstrap" width="28px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
 <img align="left" alt="Bootstrap" width="28px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg"/>
 <img align="left" alt="Bootstrap" width="28px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
+<img align="left" alt="Bootstrap" width="28px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg"/>
 
 <br />
 <br />
