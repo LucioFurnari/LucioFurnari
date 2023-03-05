@@ -46,12 +46,12 @@ If you have any questions, concerns, or criticism feel free to message me whenev
 <br />
 <br />
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=LucioFurnari&show_icons=true&locale=en&layout=compact" alt="auseta" /></p>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=LucioFurnari&show_icons=true&locale=en&layout=compact" alt="auseta" />
 
 <br />
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=LucioFurnari&show_icons=true&locale=en" alt="auseta" /></p>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=LucioFurnari&show_icons=true&locale=en" alt="auseta" />
 
 <br />
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=LucioFurnari&" alt="auseta" /></p>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=LucioFurnari&" alt="auseta" />
