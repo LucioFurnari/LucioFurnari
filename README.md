@@ -13,14 +13,8 @@
 
 - 💬 Ask me about **frontend technologies**
 
-- 📫 How to reach me **luciofurnari99@gmail.com**
+- 📫 Connect with me: **https://www.linkedin.com/in/lucio-furnari/**
 
-  <!-- - ⚡ Fun fact: **I question my faith by not being able to debug an error.** -->
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/lucio-furnari/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/lucio-furnari/" height="30" width="40" /></a>
-</p>
 
 ### Languages and Tools:
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
