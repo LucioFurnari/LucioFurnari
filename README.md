@@ -7,14 +7,6 @@
 	</i>
 </b>
 
-### Be curious and look around!
-
-If you have any questions, concerns, or criticism feel free to message me whenever and whatever you like!
-
-
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=LucioFurnari" alt="auseta" /></a> </p>
-
 - 🔭 I’m currently working on [Weather App](https://github.com/LucioFurnari/Weather-App)
 
 - 🌱 I’m currently learning **to fetch Api and create pages with webpack**
