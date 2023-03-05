@@ -46,12 +46,8 @@ If you have any questions, concerns, or criticism feel free to message me whenev
 <br />
 <br />
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=LucioFurnari&show_icons=true&locale=en&layout=compact" alt="auseta" />
+<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=LucioFurnari&hide_progress=true' />
 
 <br />
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=LucioFurnari&show_icons=true&locale=en" alt="auseta" />
-
-<br />
-
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=LucioFurnari&" alt="auseta" />
+<img src='https://github-readme-stats.vercel.app/api?username=LucioFurnari' />
