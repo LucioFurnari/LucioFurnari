@@ -37,4 +37,5 @@
 
 <br />
 
-<img src='https://github-readme-stats.vercel.app/api?username=LucioFurnari' />
+<img src='https://github-readme-stats.vercel.app/api?username=LucioFurnari&show_icons=true&theme=aura' />
+
