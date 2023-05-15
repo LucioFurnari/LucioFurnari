@@ -7,7 +7,7 @@
 	</i>
 </b>
 
-- 🔭 I’m currently working on [BN Guide](https://github.com/LucioFurnari/BN-guide)
+- 🔭 I’m currently working on [Online-shop](https://github.com/LucioFurnari/shopping-cart)
 
 - 🌱 I’m currently learning **Svelte and Typescript**
 
