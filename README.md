@@ -7,9 +7,9 @@
 	</i>
 </b>
 
-- 🔭 I’m currently working on [Online-shop](https://github.com/LucioFurnari/shopping-cart)
+- 🔭 I’m currently working on [Inventory-Application](https://github.com/LucioFurnari/Inventory-Application)
 
-- 🌱 I’m currently learning **Svelte and Typescript**
+- 🌱 I’m currently learning **Express and MongoDb**
 
 - 💬 Ask me about **frontend technologies**
 
@@ -40,5 +40,5 @@
 
 <br />
 
-<img src='https://github-readme-stats.vercel.app/api?username=LucioFurnari&show_icons=true&theme=aura' />
+<!-- <img src='https://github-readme-stats.vercel.app/api?username=LucioFurnari&show_icons=true&theme=aura' /> -->
 
