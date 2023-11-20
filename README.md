@@ -7,7 +7,7 @@
 	</i>
 </b>
 
-- 🔭 I’m currently working on [Inventory-Application](https://github.com/LucioFurnari/Inventory-Application)
+- 🔭 I’m currently working on [Members-Only](https://github.com/LucioFurnari/Members-Only)
 
 - 🌱 I’m currently learning **Express and MongoDb**
 
