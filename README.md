@@ -37,7 +37,7 @@
  ### Back End:
 
 <img align="left" alt="Node-Js" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
-<img src="./images/expressjs-icon.svg"/>
+<img align="left" alt="Node-Js" width="60px" src="./images/expressjs-icon.svg"/>
 <img align="left" alt="Node-Js" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />
 
 <br/>
@@ -53,6 +53,7 @@
  <img align="left" alt="React" width="52px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg"/>
  <img align="left" alt="React" width="52px" src="./images/vite-icon.svg" />
 
+<br />
 <br />
 <br />
 <br />
